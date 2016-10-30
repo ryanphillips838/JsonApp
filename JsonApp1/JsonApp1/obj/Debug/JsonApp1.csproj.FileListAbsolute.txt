@@ -1,0 +1,16 @@
+C:\Users\ryanp_000\Documents\Visual Studio 2015\Projects\JsonApp1\JsonApp1\bin\Debug\JsonApp1.exe.config
+C:\Users\ryanp_000\Documents\Visual Studio 2015\Projects\JsonApp1\JsonApp1\bin\Debug\JsonApp1.exe
+C:\Users\ryanp_000\Documents\Visual Studio 2015\Projects\JsonApp1\JsonApp1\bin\Debug\JsonApp1.pdb
+C:\Users\ryanp_000\Documents\Visual Studio 2015\Projects\JsonApp1\JsonApp1\obj\Debug\JsonApp1.csprojResolveAssemblyReference.cache
+C:\Users\ryanp_000\Documents\Visual Studio 2015\Projects\JsonApp1\JsonApp1\obj\Debug\MainWindow.g.cs
+C:\Users\ryanp_000\Documents\Visual Studio 2015\Projects\JsonApp1\JsonApp1\obj\Debug\App.g.cs
+C:\Users\ryanp_000\Documents\Visual Studio 2015\Projects\JsonApp1\JsonApp1\obj\Debug\JsonApp1_MarkupCompile.cache
+C:\Users\ryanp_000\Documents\Visual Studio 2015\Projects\JsonApp1\JsonApp1\obj\Debug\JsonApp1_MarkupCompile.lref
+C:\Users\ryanp_000\Documents\Visual Studio 2015\Projects\JsonApp1\JsonApp1\obj\Debug\MainWindow.baml
+C:\Users\ryanp_000\Documents\Visual Studio 2015\Projects\JsonApp1\JsonApp1\obj\Debug\JsonApp1.g.resources
+C:\Users\ryanp_000\Documents\Visual Studio 2015\Projects\JsonApp1\JsonApp1\obj\Debug\JsonApp1.Properties.Resources.resources
+C:\Users\ryanp_000\Documents\Visual Studio 2015\Projects\JsonApp1\JsonApp1\obj\Debug\JsonApp1.csproj.GenerateResource.Cache
+C:\Users\ryanp_000\Documents\Visual Studio 2015\Projects\JsonApp1\JsonApp1\obj\Debug\JsonApp1.exe
+C:\Users\ryanp_000\Documents\Visual Studio 2015\Projects\JsonApp1\JsonApp1\obj\Debug\JsonApp1.pdb
+C:\Users\ryanp_000\Documents\Visual Studio 2015\Projects\JsonApp1\JsonApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ryanp_000\Documents\Visual Studio 2015\Projects\JsonApp1\JsonApp1\bin\Debug\Newtonsoft.Json.xml
